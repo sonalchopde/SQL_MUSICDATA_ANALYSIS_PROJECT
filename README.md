@@ -7,4 +7,4 @@ This project involves analyzing a music data store using SQL queries. The goal i
 MYSQLWORKBENCH
 
 Schema- Music Store Database
-![MusicDatabaseSchema]()
+![MusicDatabaseSchema](schema.jpeg)
